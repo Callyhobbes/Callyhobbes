@@ -18,7 +18,7 @@ I'm an Account Manager turned Front-end Developer currently base in "Winter"peg,
 | Language      | Proficiency                                                               |
 | ------------- | ------------------------------------------------------------------------- |
 | English :gb:  | Native language                                                           |
-| Japan :jp:    | JLPT Level 3                                                              |
+| Japanese :jp:    | JLPT Level 3                                                              |
 | Mandarin :cn: | HSK Level 3                                                               |
 | French :fr:   | I enjoy reading the labels on food :wink:                                                           |
 
