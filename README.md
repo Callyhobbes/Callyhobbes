@@ -17,10 +17,10 @@ I'm an Account Manager turned Front-end Developer currently base in "Winter"peg,
 
 | Language      | Proficiency                                                               |
 | ------------- | ------------------------------------------------------------------------- |
-| English :gb:  | Native language                                                           |
-| Japanese :jp:    | JLPT Level 3                                                              |
-| Mandarin :cn: | HSK Level 3                                                               |
-| French :fr:   | I enjoy reading the labels on food :wink:                                                           |
+| English       | Native language                                                           |
+| Japanese      | JLPT Level 3                                                              |
+| Mandarin      | HSK Level 3                                                               |
+| French        | I enjoy reading the labels on food :wink:                                                           |
 
 <!--
 **Callyhobbes/Callyhobbes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
