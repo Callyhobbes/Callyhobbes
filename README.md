@@ -11,6 +11,7 @@ I'm an Account Manager turned Front-end Developer currently base in "Winter"peg,
 - React
 
 ## What I want to Learn :books:
+- MERN (MongoDB, Express, React, Node.js)
 - Python
 
 ## Spoken Languages :earth_americas:
