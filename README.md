@@ -10,6 +10,10 @@ I'm an Account Manager turned Front-end Developer currently base in "Winter"peg,
 - jQuery
 - React
 
+## What I'm Learning :scroll:
+- PHP
+- WordPress
+
 ## What I want to Learn :books:
 - MERN (MongoDB, Express, React, Node.js)
 - Python
