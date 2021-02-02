@@ -12,7 +12,7 @@ I'm an Account Manager turned Front-end Developer currently base in "Winter"peg,
 
 ## What I'm Learning :scroll:
 - PHP
-- WordPress
+- CMS (WordPress, Joomla)
 
 ## What I want to Learn :books:
 - MERN (MongoDB, Express, React, Node.js)
