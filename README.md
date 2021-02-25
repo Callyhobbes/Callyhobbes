@@ -9,10 +9,12 @@ I'm an Account Manager turned Front-end Developer currently base in "Winter"peg,
 - SASS
 - jQuery
 - React
+- Figma
 
 ## What I'm Learning :scroll:
 - PHP
 - CMS (WordPress, Joomla)
+- Adobe (PS, AI)
 
 ## What I want to Learn :books:
 - MERN (MongoDB, Express, React, Node.js)
