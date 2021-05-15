@@ -9,6 +9,7 @@ I'm an Account Manager turned Front-end Developer currently base in "Winter"peg,
 - SASS
 - jQuery
 - React
+- Redux
 - Figma
 
 ## What I'm Learning :scroll:
