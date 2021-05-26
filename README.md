@@ -11,11 +11,11 @@ I'm an Account Manager turned Front-end Developer currently base in "Winter"peg,
 - React
 - Redux
 - Figma
+- Adobe (PS, AI)
 
 ## What I'm Learning :scroll:
 - PHP
 - CMS (WordPress, Joomla)
-- Adobe (PS, AI)
 
 ## What I want to Learn :books:
 - MERN (MongoDB, Express, React, Node.js)
