@@ -1,7 +1,7 @@
 # Hi I'm Calvin
 
 ## About Me :speech_balloon:
-I'm an Account Manager turned Front-end Developer currently base in "Winter"peg, Canada :snowflake:. I recently completed the Web Develoment Immersive Bootcamp at Juno College. I have a particular passion for creatingimmersive and creative web designs with CSS and Vanilla Javascript.
+I'm an Account Manager turned Front-end Developer currently base in "Winter"peg, Canada :snowflake:. I recently completed the Web Develoment Immersive Bootcamp at Juno College. I have a particular passion for creating immersive and creative web designs with React and Redux.
 
 ## My Skills :computer:
 - JavaScript
