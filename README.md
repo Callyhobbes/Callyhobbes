@@ -33,6 +33,8 @@ I'm an Account Manager turned Front-end Developer currently base in "Winter"peg,
 
 ![Cally's GitHub stats](https://github-readme-stats.vercel.app/api?username=Callyhobbes&count_private=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Callyhobbes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Callyhobbes/Callyhobbes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
