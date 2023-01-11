@@ -31,6 +31,8 @@ I'm an Account Manager turned Front-end Developer currently base in "Winter"peg,
 | Mandarin      | HSK Level 3                                                               |
 | French        | I enjoy reading the labels on food :wink:                                                           |
 
+![Cally's GitHub stats](https://github-readme-stats.vercel.app/api?username=Callyhobbes&count_private=true)
+
 <!--
 **Callyhobbes/Callyhobbes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
